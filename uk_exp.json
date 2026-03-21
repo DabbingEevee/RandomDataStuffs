@@ -10,8 +10,8 @@
 		{"title": "DPump Overpump", "explosions": [{"damage": 5, "mult": 1, "radius": 9, "falloff": true}, {"damage": 5, "mult": 1, "radius": 12, "falloff": true}]},
 		
 		{"title": "Core Boost", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
-		{"title": "APump 1 Pump", "explosions": [{"damage": 3.5, "mult": 1, "radius": 4, "falloff": true}]},
-		{"title": "APump 2 Pump", "explosions": [{"damage": 3.5, "mult": 1, "radius": 8, "falloff": true}]},
+		{"title": "APump 1 Pump", "explosions": [{"damage": 3.5, "mult": 1, "radius": 4, "falloff": false}]},
+		{"title": "APump 2 Pump", "explosions": [{"damage": 3.5, "mult": 1, "radius": 8, "falloff": false}]},
 		{"title": "APump Overpump", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}]},
 		
 		{"title": "Rocket Hit", "explosions": [{"damage": 3.5, "mult": 1, "radius": 6, "falloff": true}]},
