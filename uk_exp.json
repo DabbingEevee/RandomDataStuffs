@@ -47,8 +47,8 @@
 		{"title": "Maurice Core nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "Maurice Rocket Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
 		{"title": "Maurice Ball Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
-		{"title": "Ligntning Core Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
-		{"title": "Ligntning Rocket Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
-		{"title": "Ligntning Ball Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]}
+		{"title": "Ligntning Core Nuke", "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
+		{"title": "Ligntning Rocket Nuke", "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
+		{"title": "Ligntning Ball Nuke", "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]}
 	]
 }
