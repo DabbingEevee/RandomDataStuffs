@@ -23,7 +23,7 @@
 		{"title": "Malicious Railcannon", "explosions": [{"damage": 6.25, "mult": 1, "radius": 13.5, "falloff": false}]},
 
 		{"title": "Maurice Beam", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
-		{"title": "Lightning", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}]},
+		{"title": "Lightning", "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true}]},
 		
 		{"title": "RtC Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "CtC Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
