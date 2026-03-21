@@ -1,5 +1,7 @@
 {
     "data": [
+		{"title": "Knuckleblaster Explosion", "explosions": [{"damage": 1, "mult": 1, "radius": 12, "falloff": false}]},
+		
 		{"title": "Sharpshooter Detonation", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}]},
 		
 		{"title": "Projectile Boost", "explosions": [{"damage": 3.5, "mult": 1, "radius": 6, "falloff": true}]},
@@ -45,8 +47,6 @@
 		{"title": "Maurice Ball Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		{"title": "Ligntning Core Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "Ligntning Rocket Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
-		{"title": "Ligntning Ball Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
-		
-		{"title": "Knuckleblaster Explosion", "explosions": [{"damage": 1, "mult": 1, "radius": 12, "falloff": false}]}
+		{"title": "Ligntning Ball Nuke", "explosions": [{"damage": 6, "mult": 2, "radius": 20, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]}
 	]
 }
