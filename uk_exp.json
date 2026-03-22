@@ -24,7 +24,7 @@
 		{"title": "Rocket Boost", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		{"title": "Charged Rocket Boost", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}]},
 
-		{"title": "Malicious Railcannon", "explosions": [{"damage": 6.25, "mult": 1, "radius": 13.5, "falloff": false}]},
+		{"title": "Malicious Railcannon", "explosions": [{"damage": 5, "mult": 1.25, "radius": 13.5, "falloff": false}]},
 
 		{"title": "Maurice Beam", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		{"title": "Lightning", "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true}]},
@@ -32,17 +32,17 @@
 		{"title": "RtC Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "CtC Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "Charged RtC Nuke", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
-		{"title": "Core Nuke", "explosions": [{"damage": 6.25, "mult": 1, "radius": 13.5, "falloff": false}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
+		{"title": "Core Nuke", "explosions": [{"damage": 5, "mult": 1.25, "radius": 13.5, "falloff": false}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		
 		{"title": "RtR Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
 		{"title": "CtR Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
 		{"title": "Charged RtR Nuke", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
-		{"title": "Rocket Nuke", "explosions": [{"damage": 6.25, "mult": 1, "radius": 13.5, "falloff": false}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
+		{"title": "Rocket Nuke", "explosions": [{"damage": 5, "mult": 1.25, "radius": 13.5, "falloff": false}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
 
 		{"title": "RtB Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		{"title": "CtB Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		{"title": "Charged RtB Nuke", "explosions": [{"damage": 3.5, "mult": 2, "radius": 12, "falloff": true}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
-		{"title": "Cannonball Nuke", "explosions": [{"damage": 6.25, "mult": 1, "radius": 13.5, "falloff": false}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
+		{"title": "Cannonball Nuke", "explosions": [{"damage": 5, "mult": 1.25, "radius": 13.5, "falloff": false}, {"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}]},
 		
 		{"title": "Maurice Core nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true}]},
 		{"title": "Maurice Rocket Nuke", "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true}, {"damage": 3.5, "mult": 1, "radius": 18, "falloff": true}]},
