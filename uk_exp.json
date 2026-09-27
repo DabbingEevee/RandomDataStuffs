@@ -28,7 +28,7 @@
 		{"title": "Malicious Railcannon", "hitscanDamage": true, "explosions": [{"damage": 5, "mult": 1.25, "radius": 13.5, "falloff": false, "speed": 1.5, "coinscaled": true}]},
 
 		{"title": "Maurice Beam", "hitscanDamage": true, "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true, "speed": 1, "coinscaled": true}]},
-		{"title": "Lightning", "hitscanDamage": true, "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true, "speed": 2, "coinscaled": true}]},
+		{"title": "Lightning", "hitscanDamage": false, "explosions": [{"damage": 5, "mult": 2, "radius": 20, "falloff": true, "speed": 2, "coinscaled": true}]},
 		
 		{"title": "RtC Nuke", "hitscanDamage": false, "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true, "speed": 1, "coinscaled": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true, "speed": 3.5, "coinscaled": false}]},
 		{"title": "CtC Nuke", "hitscanDamage": false, "explosions": [{"damage": 5, "mult": 1, "radius": 13.5, "falloff": true, "speed": 1, "coinscaled": true}, {"damage": 3.5, "mult": 2, "radius": 24, "falloff": true, "speed": 3.5, "coinscaled": false}]},
